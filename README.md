@@ -73,6 +73,7 @@ After completing this assignment, you should
      * The general description field, if provided, should be at least 10 words long.
 
 **Hint** Checkboxes need to be turned on in a django form. See: https://docs.djangoproject.com/en/dev/ref/forms/widgets/#django.forms.CheckboxSelectMultiple
+
 **Hint** To make your parsley validation work for bootstrap layouts use this code:
 
 ```
